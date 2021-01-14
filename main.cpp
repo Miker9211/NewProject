@@ -7,7 +7,6 @@ using std::cout;
 int main() 
 {
     vector<int> v{1, 2, 3, 4};
-    v.push_back(5);
     int total = IncrementAndComputeVectorSum(v);
     cout << "The total is: " << total << "\n";
 }
