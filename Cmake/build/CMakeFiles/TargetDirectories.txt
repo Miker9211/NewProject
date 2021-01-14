@@ -1,0 +1,3 @@
+/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/build/CMakeFiles/example.dir
