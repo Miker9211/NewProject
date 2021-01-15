@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/src/increment_and_sum.cpp
-vect_add_one.h
-/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/src/vect_add_one.h
-
 /mnt/c/Users/mikey/UdaProject/NewProject/Cmake/src/increment_and_sum.h
 vector
 -
@@ -21,12 +17,4 @@ vector
 -
 increment_and_sum.h
 /mnt/c/Users/mikey/UdaProject/NewProject/Cmake/src/increment_and_sum.h
-
-/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/src/vect_add_one.cpp
-vect_add_one.h
-/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/src/vect_add_one.h
-
-/mnt/c/Users/mikey/UdaProject/NewProject/Cmake/src/vect_add_one.h
-vector
--
 
